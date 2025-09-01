@@ -2,6 +2,8 @@
 
 A production-ready YOLO11x classification system for Jetson devices using NVIDIA DeepStream SDK 7.0, packaged in Docker for easy deployment and development.
 
+Note: This project was tested with the following yolo classify model, repo found [here](https://huggingface.co/datasets/lreal/BingRecycle40k)
+
 ## 🏗️ Project Structure
 
 ```
