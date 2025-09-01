@@ -1,0 +1,10 @@
+DeepStream-Yolo-Classification-save1.zip
+trashbot_transferlearning_rev1.zip
+DeepStream-Yolo-Classification/nvdsinfer_custom_impl_YoloClassify/libnvdsinfer_custom_impl_YoloClassify.so
+DeepStream-Yolo-Classification/nvdsinfer_custom_impl_YoloClassify/simple_classify_plugin.o
+DeepStream-Yolo-Classification/classification.log
+DeepStream-Yolo-Classification/errors.log
+DeepStream-Yolo-Classification/my_model.onnx
+DeepStream-Yolo-Classification/model_b1_gpu0_fp16.engine
+DeepStream-Yolo-Classification/trash_labels.txt
+trashbot_transferlearning_rev1/
